@@ -1,0 +1,19 @@
+# Ignorar pastas
+
+# Virtual environment
+.venv/
+venv/
+env/
+*.pyc
+
+# Python-specific files
+__pycache__/
+*.egg-info/
+build/
+dist/
+
+# Editor/IDE specific files (examples)
+.vscode/
+.idea/
+*.swp
+*.bak
