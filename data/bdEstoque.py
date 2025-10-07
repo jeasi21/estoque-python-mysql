@@ -95,6 +95,6 @@ def deletar_produto(nome):
 
 
 
-exibir_produtos()
+
 
 
